@@ -1,6 +1,9 @@
 package flink.examples.sql._07.query._06_joins._02_interval_joins._01_outer_join;
 
 
+/**
+ * wocaonima
+ */
 public class WindowJoinFunction$46
         extends org.apache.flink.api.common.functions.RichFlatJoinFunction {
 
